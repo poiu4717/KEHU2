@@ -49,8 +49,16 @@ proxies:
   - {name: 尼日利亚3, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-MeqXHSpI}
   - {name: 尼日利亚4, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-5Z0Fjs6U}
   - {name: 尼日利亚5, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-gW6KSbRG}
-
-
+  - {name: 土耳其1, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nOZg4Jbm}
+  - {name: 土耳其2, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其3, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其4, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-Sah4GYvf}
+  - {name: 土耳其5, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-tFrLO23o}
+  - {name: 哥伦比亚1, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-HeuQDwfL}
+  - {name: 哥伦比亚2, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gzlUcjfM}
+  - {name: 哥伦比亚3, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ZCWHEFg2}
+  - {name: 哥伦比亚4, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ocCxBeAP}
+  - {name: 哥伦比亚5, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-YyvtDaiK}
 proxy-groups:
   - name: Googleplay
     type: select
@@ -65,8 +73,16 @@ proxy-groups:
       - 尼日利亚3
       - 尼日利亚4
       - 尼日利亚5
-  
-
+      - 土耳其1
+      - 土耳其2
+      - 土耳其3
+      - 土耳其4
+      - 土耳其5
+      - 哥伦比亚1
+      - 哥伦比亚2
+      - 哥伦比亚3
+      - 哥伦比亚4
+      - 哥伦比亚5
   - name: Proxies
     type: select
     proxies:
