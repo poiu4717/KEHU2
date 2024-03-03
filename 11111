@@ -38,22 +38,21 @@ Japan 02=ss,east.ajjpss.lol,43002,encrypt-method=chacha20-ietf-poly1305,password
 Japan 03=ss,east.ajjpss.lol,43003,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Japan 04=ss,east.ajjpss.lol,43004,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
 Japan 05=ss,east.ajjpss.lol,43005,encrypt-method=chacha20-ietf-poly1305,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-
-🇯🇵 尼日利亚1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-IKui7weZ, udp-relay=false
-🇯🇵 尼日利亚2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-AleuJPzx, udp-relay=false
-🇯🇵 尼日利亚3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-MeqXHSpI, udp-relay=false
-🇯🇵 尼日利亚4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-5Z0Fjs6U, udp-relay=false
-🇯🇵 尼日利亚5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-gW6KSbRG, udp-relay=false
-🇹🇷 土耳其1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-nOZg4Jbm, udp-relay=false
-🇹🇷 土耳其2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-96L2x8iV, udp-relay=false
-🇹🇷 土耳其3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-96L2x8iV, udp-relay=false
-🇹🇷 土耳其4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-Sah4GYvf, udp-relay=false
-🇹🇷 土耳其5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-tFrLO23o, udp-relay=false
-哥伦比亚1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-HeuQDwfL, udp-relay=false
-哥伦比亚2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-gzlUcjfM, udp-relay=false
-哥伦比亚3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-ZCWHEFg2, udp-relay=false
-哥伦比亚4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-ocCxBeAP, udp-relay=false
-哥伦比亚5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-YyvtDaiK, udp-relay=false
+🇯🇵 尼日利亚1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-IKui7weZ
+🇯🇵 尼日利亚2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-AleuJPzx
+🇯🇵 尼日利亚3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-MeqXHSpI
+🇯🇵 尼日利亚4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-5Z0Fjs6U
+🇯🇵 尼日利亚5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-ng_session-gW6KSbRG
+🇹🇷 土耳其1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-nOZg4Jbm
+🇹🇷 土耳其2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-96L2x8iV
+🇹🇷 土耳其3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-96L2x8iV
+🇹🇷 土耳其4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-Sah4GYvf
+🇹🇷 土耳其5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-tr_session-tFrLO23o
+哥伦比亚1 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-HeuQDwfL
+哥伦比亚2 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-gzlUcjfM
+哥伦比亚3 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-ZCWHEFg2
+哥伦比亚4 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-ocCxBeAP
+哥伦比亚5 = socks5, 150.109.18.53, 25009, username=poiu4717, password=9gHUDSv8OK_country-co_session-YyvtDaiK
 [Proxy Group]
 Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,日本01,日本02,日本03,日本04 ,日本05,日本06,日本07,日本08,Japan 01,Japan 02,Japan 03,Japan 04,Japan 05
 Googleplay= select, 港HK41,港HK42,港HK44,🇯🇵 尼日利亚1,🇯🇵 尼日利亚2,🇯🇵 尼日利亚3,🇯🇵 尼日利亚4,🇯🇵 尼日利亚5,🇹🇷 土耳其1,🇹🇷 土耳其2,🇹🇷 土耳其3,🇹🇷 土耳其4,🇹🇷 土耳其5,哥伦比亚1,哥伦比亚2,哥伦比亚3,哥伦比亚4,哥伦比亚5
