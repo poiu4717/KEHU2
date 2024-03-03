@@ -1,6 +1,5 @@
 #!MANAGED-CONFIG https://raw.githubusercontent.com/poiu4717/KEHU2/main/11111 interval=43200 strict=true
 # Thanks @Hackl0us SS-Rule-Snippet
-
 [General]
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
 dns-server = 114.114.114.114, 223.5.5.5, system
@@ -58,7 +57,7 @@ Japan 05=ss,east.ajjpss.lol,43005,encrypt-method=chacha20-ietf-poly1305,password
 
 [Proxy Group]
 Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,日本01,日本02,日本03,日本04 ,日本05,日本06,日本07,日本08,Japan 01,Japan 02,Japan 03,Japan 04,Japan 05
-Googleplay= select, 港HK41,港HK42,港HK44,,🇯🇵 尼日利亚1,🇯🇵 尼日利亚2,🇯🇵 尼日利亚3,🇯🇵 尼日利亚4,🇯🇵 尼日利亚5,🇹🇷 土耳其1,🇹🇷 土耳其2,🇹🇷 土耳其3,🇹🇷 土耳其4,🇹🇷 土耳其5,哥伦比亚1,哥伦比亚2,哥伦比亚3,哥伦比亚4,哥伦比亚5
+Googleplay= select, 港HK41,港HK42,港HK44,🇯🇵 尼日利亚1,🇯🇵 尼日利亚2,🇯🇵 尼日利亚3,🇯🇵 尼日利亚4,🇯🇵 尼日利亚5,🇹🇷 土耳其1,🇹🇷 土耳其2,🇹🇷 土耳其3,🇹🇷 土耳其4,🇹🇷 土耳其5,哥伦比亚1,哥伦比亚2,哥伦比亚3,哥伦比亚4,哥伦比亚5
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
 DOMAIN-SUFFIX,ip-api.com,Googleplay
