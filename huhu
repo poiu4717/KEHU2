@@ -6,16 +6,16 @@ dns-server = 114.114.114.114, 223.5.5.5, system
 always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
-🇭🇰 香港_01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港_02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港_03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港_04=ss,gateway.four.91tutu.xyz,29804,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港_05=ss,gateway.one.91tutu.xyz,29805,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本_01=ss,gateway.one.91tutu.xyz,39191,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本_02=ss,gateway.two.91tutu.xyz,39192,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本_03=ss,gateway.three.91tutu.xyz,39103,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本_04=ss,gateway.four.91tutu.xyz,39104,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本_05=ss,gateway.one.91tutu.xyz,39105,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇭🇰 香港01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇭🇰 香港02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇭🇰 香港03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇭🇰 香港04=ss,gateway.four.91tutu.xyz,29804,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇭🇰 香港05=ss,gateway.one.91tutu.xyz,29805,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇯🇵 日本01=ss,gateway.one.91tutu.xyz,39191,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇯🇵 日本02=ss,gateway.two.91tutu.xyz,39192,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇯🇵 日本03=ss,gateway.three.91tutu.xyz,39103,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇯🇵 日本04=ss,gateway.four.91tutu.xyz,39104,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
+🇯🇵 日本05=ss,gateway.one.91tutu.xyz,39105,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
 尼日利亚1=socks5, www.ytios.cn,34584,huhuhuoo,jxyBawn50s_country-ng_session-5KrveUym, udp-relay=false
 尼日利亚2=socks5, www.ytios.cn,34584,huhuhuoo,jxyBawn50s_country-ng_session-7TEXZiUN, udp-relay=false
 尼日利亚3=socks5, www.ytios.cn,34584,huhuhuoo,jxyBawn50s_country-ng_session-hfMgHkON, udp-relay=false
