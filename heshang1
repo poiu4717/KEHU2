@@ -44,11 +44,16 @@ Japan 05=ss,east.ajjpss.lol,43005,encrypt-method=chacha20-ietf-poly1305,password
 尼日利亚3=socks5, 150.109.18.53,52946,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
 尼日利亚4=socks5, 150.109.18.53,52946,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
 尼日利亚5=socks5, 150.109.18.53,52946,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+922尼日1=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日2=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日3=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日4=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日5=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
 
 
 [Proxy Group]
 Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,🇯🇵 日本01,🇯🇵 日本02,🇯🇵 日本03,🇯🇵 日本04 ,🇯🇵 日本05,🇯🇵 日本06,🇯🇵 日本07,🇯🇵 日本08,Japan 01,Japan 02,Japan 03,Japan 04,Japan 05
-Googleplay= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5
+Googleplay= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,922尼日1, 922尼日2, 922尼日3,922尼日4,922尼日5
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
 DOMAIN-SUFFIX,ip-api.com,Googleplay
