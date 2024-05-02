@@ -39,6 +39,8 @@ proxies:
   - { name: 日本_06, type: ss, server: gateway-j-p-06.91tutu.xyz, port: 39106, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true } 
   - { name: 日本_07, type: ss, server: gateway-j-p-07.91tutu.xyz, port: 39107, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true } 
   - { name: 日本_08, type: ss, server: gateway-j-p-08.91tutu.xyz, port: 39418, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
   - {name: 尼日1, server: ss.jinhuiios.top, port: 12033, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-zWtAOc6a}
   - {name: 尼日2, server: ss.jinhuiios.top, port: 12033, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Bmw3Q8rH}
   - {name: 尼日3, server: ss.jinhuiios.top, port: 12033, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-lmeP0Xxc}
@@ -136,7 +138,8 @@ proxy-groups:
       - 日本_06
       - 日本_07
       - 日本_08
-
+      - 🇭🇰 hk1
+      - 🇭🇰 HK2
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
