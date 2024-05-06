@@ -47,11 +47,7 @@ proxy-groups:
       - 缅甸3
       - 缅甸4
       - 缅甸5
-      - 缅甸6
-      - 缅甸7
-      - 缅甸8
-      - 缅甸9
-      - 缅甸10
+
   - name: Proxies
     type: select
     proxies:
