@@ -1,88 +1,126 @@
-#!MANAGED-CONFIG https://raw.githubusercontent.com/poiu4717/KEHU2/main/huhu interval=43200 strict=true
-# Thanks @Hackl0us SS-Rule-Snippet
-[General]
-skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
-dns-server = 114.114.114.114, 223.5.5.5, system
-always-real-ip = stun.l.google.com
-doh-server = https://doh.pub/dns-query
-[Proxy]
-🇭🇰 香港01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港04=ss,gateway.four.91tutu.xyz,29804,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇭🇰 香港05=ss,gateway.one.91tutu.xyz,29805,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本01=ss,gateway.one.91tutu.xyz,39191,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本02=ss,gateway.two.91tutu.xyz,39192,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本03=ss,gateway.three.91tutu.xyz,39103,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本04=ss,gateway.four.91tutu.xyz,39104,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-🇯🇵 日本05=ss,gateway.one.91tutu.xyz,39105,encrypt-method=chacha20-ietf-poly1305,password=1d509dff-9659-4589-a3b7-fb015003d551,tfo=true,udp-relay=true
-尼日利亚1=socks5, cm-03.gangbi.vip,25185,huhuhuoo,jxyBawn50s_country-ng_session-5KrveUym, udp-relay=false
-尼日利亚2=socks5, cm-03.gangbi.vip,25185,huhuhuoo,jxyBawn50s_country-ng_session-7TEXZiUN, udp-relay=false
-尼日利亚3=socks5, cm-03.gangbi.vip,25185,huhuhuoo,jxyBawn50s_country-ng_session-hfMgHkON, udp-relay=false
-尼日利亚4=socks5, cm-03.gangbi.vip,25185,huhuhuoo,jxyBawn50s_country-ng_session-kyjqm5xW, udp-relay=false
-尼日利亚5=socks5, cm-03.gangbi.vip,25185,huhuhuoo,jxyBawn50s_country-ng_session-cgUbMinX, udp-relay=false
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+proxies:
 
+  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
 
-[Proxy Group]
-Proxies= select, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇯🇵 日本01,🇯🇵 日本02,🇯🇵 日本03,🇯🇵 日本04 ,🇯🇵 日本05
-Googleplay= select,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,尼日利亚1,尼日利亚2,尼日利亚3,尼日利亚4,尼日利亚5
+  - {name: 缅甸1, server: ss2.jinhuiios.top, port: 36126, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-mm_session-hvOXxkgw}
+  - {name: 缅甸2, server: ss2.jinhuiios.top, port: 36126, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-mm_session-jxHpDsn6}
+  - {name: 缅甸3, server: ss2.jinhuiios.top, port: 36126, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-mm_session-OMRbzFXg}
+  - {name: 缅甸4, server: ss2.jinhuiios.top, port: 36126, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-mm_session-pHJ180ic}
+  - {name: 缅甸5, server: ss2.jinhuiios.top, port: 36126, type: socks5, username: huhuhuoo, password: jxyBawn50s_country-mm_session-FrXZyPWB}
 
-[Rule]
-DOMAIN-SUFFIX,ipapi.co,Googleplay
-DOMAIN-SUFFIX,ip-api.com,Googleplay
-DOMAIN-SUFFIX,api.ip.sb,Googleplay
-DOMAIN-SUFFIX,IPInfo.io,Googleplay
-DOMAIN-SUFFIX,ipip.net,Googleplay
-DOMAIN-SUFFIX,skk.moe,Googleplay
-DOMAIN-KEYWORD,game,Proxies
-DOMAIN-KEYWORD,gvt1,Proxies
-DOMAIN-KEYWORD,googlevideo.com,Proxies
-DOMAIN-KEYWORD,lra8j.com,DIRECT
-DOMAIN-KEYWORD,cn,DIRECT
-DOMAIN,play-fe.googleapis.com,Googleplay
-IP-CIDR,172.217.160.110/32,Googleplay
-IP-CIDR,172.217.163.46/32,Googleplay
-IP-CIDR,172.217.160.78/32,Googleplay
-IP-CIDR,142.251.42.238/32,Googleplay
-IP-CIDR,142.251.43.14/32,Googleplay
-IP-CIDR,142.251.220.77/32,Googleplay
-IP-CIDR,142.251.42.237/32,Googleplay
-IP-CIDR,172.217.163.45/32,Googleplay
-IP-CIDR,142.250.204.78/32,Googleplay
-IP-CIDR,142.250.66.142/32,Googleplay
-DOMAIN-SUFFIX,1password.com,DIRECT
-DOMAIN-SUFFIX,vultr.com,DIRECT
-DOMAIN-SUFFIX,mb3admin.com,DIRECT
-DOMAIN-SUFFIX,rixcloud.io,DIRECT
-DOMAIN-SUFFIX,tempestapp.io,DIRECT
-DOMAIN-SUFFIX,baidu.com,DIRECT
-DOMAIN-SUFFIX,baidu-int.com,DIRECT
-DOMAIN-SUFFIX,erebor.douban.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
-DOMAIN,alt1-mtalk.google.com,DIRECT
-DOMAIN,alt2-mtalk.google.com,DIRECT
-DOMAIN,alt3-mtalk.google.com,DIRECT
-DOMAIN,alt4-mtalk.google.com,DIRECT
-DOMAIN,alt5-mtalk.google.com,DIRECT
-DOMAIN,alt6-mtalk.google.com,DIRECT
-DOMAIN,alt7-mtalk.google.com,DIRECT
-DOMAIN,alt8-mtalk.google.com,DIRECT
-DOMAIN,alt9-mtalk.google.com,DIRECT
-DOMAIN,captive.apple.com,DIRECT
-DOMAIN,time-ios.apple.com,DIRECT
-DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net,DIRECT
-DOMAIN-SUFFIX,push.apple.com,DIRECT
-DOMAIN-KEYWORD,github,Proxies
-DOMAIN-SUFFIX,github.com,Proxies
-DOMAIN-SUFFIX,github.io,Proxies
-DOMAIN-SUFFIX,githubassets.com,Proxies
-DOMAIN-SUFFIX,githubusercontent.com,Proxies
-DOMAIN-SUFFIX,googleapis.cn,Proxies
-DOMAIN-SUFFIX,maying.co,Proxies
-DOMAIN-SUFFIX,flowercloud.net,Proxies
-DOMAIN-SUFFIX,socloud.me,Proxies
-DOMAIN-SUFFIX,ytoo.asia,Proxies
-DOMAIN-SUFFIX,ytoo.co.uk,Proxies
-GEOIP,CN,DIRECT
-FINAL,Proxies
-FINAL,Proxies
+proxy-providers:
+          机场:
+            type: http
+            url: https://fly0001.buzz/gateway/feitu?token=590486ea91d8713fe610c4b430622ad1
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204  
+
+proxy-groups:
+  - name: Googleplay
+    type: select
+    proxies:
+
+      - 缅甸1
+      - 缅甸2
+      - 缅甸3
+      - 缅甸4
+      - 缅甸5
+      - 缅甸6
+      - 缅甸7
+      - 缅甸8
+      - 缅甸9
+      - 缅甸10
+  - name: Proxies
+    type: select
+    proxies:
+     
+      - 🇭🇰 hk1
+      - 🇭🇰 HK2
+    use:
+      - 机场
+
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
+rules:
+  - DOMAIN-SUFFIX,ipapi.co,Googleplay
+  - DOMAIN-SUFFIX,ip-api.com,Googleplay
+  - DOMAIN-SUFFIX,api.ip.sb,Googleplay
+  - DOMAIN-SUFFIX,IPInfo.io,Googleplay
+  - DOMAIN-SUFFIX,ipip.net,Googleplay
+  - DOMAIN-SUFFIX,skk.moe,Googleplay
+  - DOMAIN-KEYWORD,game,Proxies
+  - DOMAIN-KEYWORD,gvt1,Proxies
+  - DOMAIN-KEYWORD,googlevideo.com,Proxies
+  - DOMAIN-KEYWORD,lra8j.com,DIRECT
+  - DOMAIN-KEYWORD,cn,DIRECT
+  - DOMAIN,play-fe.googleapis.com,Googleplay
+  - IP-CIDR,172.217.160.110/32,Googleplay
+  - IP-CIDR,172.217.163.46/32,Googleplay
+  - IP-CIDR,172.217.160.78/32,Googleplay
+  - IP-CIDR,142.251.42.238/32,Googleplay
+  - IP-CIDR,142.251.43.14/32,Googleplay
+  - IP-CIDR,142.251.220.77/32,Googleplay
+  - IP-CIDR,142.251.42.237/32,Googleplay
+  - IP-CIDR,172.217.163.45/32,Googleplay
+  - IP-CIDR,142.250.204.78/32,Googleplay
+  - IP-CIDR,142.250.66.142/32,Googleplay
+  - DOMAIN-SUFFIX,1password.com,DIRECT
+  - DOMAIN-SUFFIX,vultr.com,DIRECT
+  - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+  - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+  - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidu-int.com,DIRECT
+  - DOMAIN-SUFFIX,erebor.douban.com,DIRECT
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,alt1-mtalk.google.com,DIRECT
+  - DOMAIN,alt2-mtalk.google.com,DIRECT
+  - DOMAIN,alt3-mtalk.google.com,DIRECT
+  - DOMAIN,alt4-mtalk.google.com,DIRECT
+  - DOMAIN,alt5-mtalk.google.com,DIRECT
+  - DOMAIN,alt6-mtalk.google.com,DIRECT
+  - DOMAIN,alt7-mtalk.google.com,DIRECT
+  - DOMAIN,alt8-mtalk.google.com,DIRECT
+  - DOMAIN,alt9-mtalk.google.com,DIRECT
+  - DOMAIN,captive.apple.com,DIRECT
+  - DOMAIN,time-ios.apple.com,DIRECT
+  - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,push.apple.com,DIRECT
+  - DOMAIN-KEYWORD,github,Proxies
+  - DOMAIN-SUFFIX,github.com,Proxies
+  - DOMAIN-SUFFIX,github.io,Proxies
+  - DOMAIN-SUFFIX,githubapp.com,Proxies
+  - DOMAIN-SUFFIX,githubassets.com,Proxies
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxies
+  - DOMAIN-SUFFIX,home-intl.console.aliyun.com,Proxies
+  - DOMAIN-SUFFIX,googleapis.cn,Proxies
+  - DOMAIN-SUFFIX,maying.co,Proxies
+  - DOMAIN-SUFFIX,flowercloud.net,Proxies
+  - DOMAIN-SUFFIX,socloud.me,Proxies
+  - DOMAIN-SUFFIX,ytoo.asia,Proxies
+  - DOMAIN-SUFFIX,ytoo.co.uk,Proxies
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxies
