@@ -64,10 +64,7 @@ proxy-groups:
   - name: Googleplay
     type: select
     proxies:
-      -  香港_01
-      -  香港_02
-      -  香港_03
-      -  香港_04
+
       - 尼日1
       - 尼日2
       - 尼日3
