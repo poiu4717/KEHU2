@@ -6,38 +6,29 @@ dns-server = 114.114.114.114, 223.5.5.5, system
 always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
-港HK41 = vmess, v41.topman8846.cc, 41341, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
-港HK44 = vmess, v44.topman8846.cc, 41344, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
-港HK42 = vmess, v42.topman8846.cc, 41342, username=f97053da-6cfe-3e69-816a-93fd9417ed8b, tls=true, vmess-aead=true, udp-relay=true
-Hong Kong 01=ss,south.ajjpss.lol,41411,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 02=ss,south.ajjpss.lol,41412,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 03=ss,south.ajjpss.lol,41413,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 04=ss,south.ajjpss.lol,41414,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 05=ss,south.ajjpss.lol,41415,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Hong Kong 06=ss,south.ajjpss.lol,41416,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-🇭🇰 香港01=ss,gateway.one.91tutu.xyz,29801,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港02=ss,gateway.two.91tutu.xyz,29802,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港03=ss,gateway.three.91tutu.xyz,29803,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港04=ss,gateway.four.91tutu.xyz,29804,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港05=ss,gateway.one.91tutu.xyz,29805,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港06=ss,gateway.two.91tutu.xyz,29806,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港07=ss,gateway.three.91tutu.xyz,29807,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港08=ss,gateway.four.91tutu.xyz,29818,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港09=ss,gateway.one.91tutu.xyz,29809,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇭🇰 香港10=ss,gateway.two.91tutu.xyz,29411,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本01=ss,gateway.one.91tutu.xyz,39191,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本02=ss,gateway.two.91tutu.xyz,39192,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本03=ss,gateway.three.91tutu.xyz,39103,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本04=ss,gateway.four.91tutu.xyz,39104,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本05=ss,gateway.one.91tutu.xyz,39105,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本06=ss,gateway.two.91tutu.xyz,39106,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本07=ss,gateway.three.91tutu.xyz,39107,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-🇯🇵 日本08=ss,gateway.four.91tutu.xyz,39418,encrypt-method=chacha20-ietf-poly1305,password=db866e9d-261b-4868-98d6-29a3104420eb,tfo=true,udp-relay=true
-Japan 01=ss,eyyy1.ajjpss.lol,43401,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Japan 02=ss,eyyy1.ajjpss.lol,43402,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Japan 03=ss,eyyy1.ajjpss.lol,43403,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Japan 04=ss,eyyy1.ajjpss.lol,43404,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
-Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-165d-42de-8923-4059cf8b75b8,tfo=true,udp-relay=true
+Hong Kong 01=ss,d45cc7.gorelay.xyz,33572,encrypt-method=chacha20-ietf-poly1305,password=9jCU3RWbmV,,tfo=true,udp-relay=true
+Hong Kong 02=ss,ss2.jinhuiios.top,37002,encrypt-method=chacha20-ietf-poly1305,password=0ShlZgkONt,tfo=true,udp-relay=true
+🇭🇰 香港_01 = ss, gateway-h-k-01.91tutu.xyz, 29801, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_02 = ss, gateway-h-k-02.91tutu.xyz, 29802, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_03 = ss, gateway-h-k-03.91tutu.xyz, 29803, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_04 = ss, gateway-h-k-04.91tutu.xyz, 29804, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_05 = ss, gateway-h-k-05.91tutu.xyz, 29805, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_06 = ss, gateway-h-k-06.91tutu.xyz, 29806, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_07 = ss, gateway-h-k-07.91tutu.xyz, 29807, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_08 = ss, gateway-h-k-08.91tutu.xyz, 29818, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_09 = ss, gateway-h-k-09.91tutu.xyz, 29809, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇭🇰 香港_10 = ss, gateway-h-k-10.91tutu.xyz, 29411, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+
+🇯🇵 日本_01 = ss, gateway-j-p-01.91tutu.xyz, 39191, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_02 = ss, gateway-j-p-02.91tutu.xyz, 39192, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_03 = ss, gateway-j-p-03.91tutu.xyz, 39103, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_04 = ss, gateway-j-p-04.91tutu.xyz, 39104, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_05 = ss, gateway-j-p-05.91tutu.xyz, 39105, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_06 = ss, gateway-j-p-06.91tutu.xyz, 39106, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_07 = ss, gateway-j-p-07.91tutu.xyz, 39107, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_08 = ss, gateway-j-p-08.91tutu.xyz, 39418, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_09 = ss, gateway-j-p-09.91tutu.xyz, 39419, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
+🇯🇵 日本_10 = ss, gateway-j-p-10.91tutu.xyz, 39420, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
 土耳其1=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-nOZg4Jbm, udp-relay=false
 土耳其2=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-96L2x8iV, udp-relay=false
 土耳其3=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-Sah4GYvf, udp-relay=false
@@ -89,8 +80,8 @@ Japan 05=ss,eyyy1.ajjpss.lol,43405,encrypt-method=aes-128-gcm,password=e543234b-
 缅甸4=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-PtaAulvU, udp-relay=false
 缅甸5=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-0wQMpPdz, udp-relay=false
 [Proxy Group]
-Proxies= select, 港HK41,港HK42,港HK44,🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,🇭🇰 香港04,🇭🇰 香港05,🇭🇰 香港06,🇭🇰 香港07,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , Hong Kong 03, Hong Kong 04, Hong Kong 05,Hong Kong 06,🇯🇵 日本01,🇯🇵 日本02,🇯🇵 日本03,🇯🇵 日本04 ,🇯🇵 日本05,🇯🇵 日本06,🇯🇵 日本07,🇯🇵 日本08,Japan 01,Japan 02,Japan 03,Japan 04,Japan 05
-Googleplay= select, 港HK41,港HK42,港HK44,土耳其1,土耳其2, 土耳其3, 🇭🇰 香港01,🇭🇰 香港02,🇭🇰 香港03,土耳其4,土耳其5,土耳其6,土耳其7,土耳其8,土耳其9,土耳其10,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7,尼日利亚8,尼日利亚9,尼日利亚10,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5,埃及1,埃及2,埃及3,埃及4,埃及5,埃及6,埃及7,埃及8,埃及9,埃及10,922尼日1,922尼日2,922尼日3,922尼日4,922尼日5,922土耳其1,922土耳其2,922土耳其3,922土耳其4,922土耳其5,缅甸1,缅甸2,缅甸3,缅甸4,缅甸5
+Proxies= select, 🇭🇰 香港_01,🇭🇰 香港_02,🇭🇰 香港_03,🇭🇰 香港_04,🇭🇰 香港_05,🇭🇰 香港_06,🇭🇰 香港_07,🇭🇰 香港_08,🇭🇰 香港_09,🇭🇰 香港_10,🇭🇰 香港08,🇭🇰 香港09,🇭🇰 香港10, Hong Kong 01, Hong Kong 02 , 🇯🇵 日本_01, 🇯🇵 日本_02, 🇯🇵 日本_03,🇯🇵 日本_04,🇯🇵 日本_05,🇯🇵 日本_06,🇯🇵 日本_07,🇯🇵 日本_08 ,🇯🇵 日本_09,🇯🇵 日本_10
+Googleplay= select, 土耳其1,土耳其2, 土耳其3, 土耳其4,土耳其5,土耳其6,土耳其7,土耳其8,土耳其9,土耳其10,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7,尼日利亚8,尼日利亚9,尼日利亚10,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5,埃及1,埃及2,埃及3,埃及4,埃及5,埃及6,埃及7,埃及8,埃及9,埃及10,922尼日1,922尼日2,922尼日3,922尼日4,922尼日5,922土耳其1,922土耳其2,922土耳其3,922土耳其4,922土耳其5,缅甸1,缅甸2,缅甸3,缅甸4,缅甸5
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
 DOMAIN-SUFFIX,ip-api.com,Googleplay
