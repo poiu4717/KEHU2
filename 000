@@ -15,33 +15,8 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇭🇰 港HK41, server: v41.topman8846.cc, port: 41341, type: vmess, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, cipher: auto, tls: true, udp: true}
-  - {name: 🇭🇰 港HK44, server: v44.topman8846.cc, port: 41344, type: vmess, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, cipher: auto, tls: true, udp: true}
-  - {name: 🇭🇰 港HK42, server: v42.topman8846.cc, port: 41342, type: vmess, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, cipher: auto, tls: true, udp: true}
-  - {name: 🇭🇰 Hong Kong 01, server: core.ajjpss.lol, port: 41001, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 Hong Kong 02, server: core.ajjpss.lol, port: 41002, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 Hong Kong 03, server: core.ajjpss.lol, port: 41003, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 Hong Kong 04, server: core.ajjpss.lol, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 Hong Kong 05, server: core.ajjpss.lol, port: 41005, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 Hong Kong 06, server: core.ajjpss.lol, port: 41006, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 香港01, server: zzhk01.51tu.pro, port: 29801, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港02, server: zzhk01.51tu.pro, port: 29802, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港03, server: zzhk01.51tu.pro, port: 29803, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港04, server: zzhk02.51tu.pro, port: 29804, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港05, server: zzhk02.51tu.pro, port: 29805, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港06, server: zzhk03.51tu.pro, port: 29806, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港07, server: zzhk03.51tu.pro, port: 29807, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港08, server: zzhk03.51tu.pro, port: 29818, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港09, server: zzhk04.51tu.pro, port: 29809, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港10, server: zzhk04.51tu.pro, port: 29411, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本01, server: zzjp01.51tu.pro, port: 39101, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本02, server: zzjp02.51tu.pro, port: 39192, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本03, server: zzjp03.51tu.pro, port: 39103, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本04, server: zzjp04.51tu.pro, port: 39104, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本05, server: zzjp01.51tu.pro, port: 39105, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本06, server: zzjp02.51tu.pro, port: 39106, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本07, server: zzjp03.51tu.pro, port: 39107, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本08, server: zzjp04.51tu.pro, port: 39418, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
+  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
 
 
   - {name: 尼日利亚1, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-IKui7weZ}
@@ -59,14 +34,22 @@ proxies:
   - {name: 哥伦比亚3, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ZCWHEFg2}
   - {name: 哥伦比亚4, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ocCxBeAP}
   - {name: 哥伦比亚5, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-YyvtDaiK}
+proxy-providers:
+          机场:
+            type: http
+            url: https://fly0001.buzz/gateway/feitu?token=b6ad60273e669b9e6cb369cab42ad37b
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204 
 proxy-groups:
   - name: Googleplay
     type: select
     proxies:
-      -  '🇭🇰 香港01'
-      -  '🇭🇰 香港02'
-      -  '🇭🇰 香港03'
-      -  '🇭🇰 香港04'
+
 
       - 尼日利亚1
       - 尼日利亚2
@@ -86,33 +69,15 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-      - 🇭🇰 港HK41
-      - 🇭🇰 港HK44
-      - 🇭🇰 港HK42
-      - 🇭🇰 Hong Kong 01
-      - 🇭🇰 Hong Kong 02
-      - 🇭🇰 Hong Kong 03
-      - 🇭🇰 Hong Kong 04
-      - 🇭🇰 Hong Kong 05
-      - 🇭🇰 Hong Kong 06
-      - 🇭🇰 香港01
-      - 🇭🇰 香港02
-      - 🇭🇰 香港03
-      - 🇭🇰 香港04
-      - 🇭🇰 香港05
-      - 🇭🇰 香港06
-      - 🇭🇰 香港07
-      - 🇭🇰 香港08
-      - 🇭🇰 香港09
-      - 🇭🇰 香港10
-      - 🇯🇵 日本01
-      - 🇯🇵 日本02
-      - 🇯🇵 日本03
-      - 🇯🇵 日本04
-      - 🇯🇵 日本05
-      - 🇯🇵 日本06
-      - 🇯🇵 日本07
-      - 🇯🇵 日本08
+      - 🇭🇰 hk1
+      - 🇭🇰 🇭🇰 HK2
+    use:
+      - 机场
+
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
+
 
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
