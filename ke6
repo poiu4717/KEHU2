@@ -48,6 +48,16 @@ proxies:
   - {name: 缅甸8, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
   - {name: 缅甸9, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
   - {name: 缅甸10, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其1, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VciQn6Ag}
+  - {name: 土耳其2, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-2GgLDd4C}
+  - {name: 土耳其3, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-ypRDALzw}
+  - {name: 土耳其4, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-NdjOTybx}
+  - {name: 土耳其5, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-pwUVAzDS}
+  - {name: 土耳其6, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-TR-sessid-7jC7eIjC1x-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其7, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-TR-sessid-8sG5K4wnci-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其8, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-TR-sessid-v0njlHanln-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其9, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-TR-sessid-eLyJ3L5qLj-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其10, server: d45cc7.gorelay.xyz, port: 38371, type: socks5, username: 47353961-zone-custom-region-TR-sessid-z7elF4Bk1l-sessTime-30, password: dJIA8BM3}
 proxy-providers:
           机场:
             type: http
@@ -95,6 +105,16 @@ proxy-groups:
       - 缅甸8
       - 缅甸9
       - 缅甸10
+      - 土耳其1
+      - 土耳其2
+      - 土耳其3
+      - 土耳其4
+      - 土耳其5
+      - 土耳其6
+      - 土耳其7
+      - 土耳其8
+      - 土耳其9
+      - 土耳其10
   - name: Proxies
     type: select
     proxies:
