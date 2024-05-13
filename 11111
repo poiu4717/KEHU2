@@ -8,79 +8,59 @@ doh-server = https://doh.pub/dns-query
 [Proxy]
 Hong Kong 01=ss,d45cc7.gorelay.xyz,33572,encrypt-method=chacha20-ietf-poly1305,password=9jCU3RWbmV,,tfo=true,udp-relay=true
 Hong Kong 02=ss,ss2.jinhuiios.top,37002,encrypt-method=chacha20-ietf-poly1305,password=0ShlZgkONt,tfo=true,udp-relay=true
-🇭🇰 香港_01 = ss, gateway-h-k-01.91tutu.xyz, 29801, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_02 = ss, gateway-h-k-02.91tutu.xyz, 29802, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_03 = ss, gateway-h-k-03.91tutu.xyz, 29803, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_04 = ss, gateway-h-k-04.91tutu.xyz, 29804, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_05 = ss, gateway-h-k-05.91tutu.xyz, 29805, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_06 = ss, gateway-h-k-06.91tutu.xyz, 29806, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_07 = ss, gateway-h-k-07.91tutu.xyz, 29807, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_08 = ss, gateway-h-k-08.91tutu.xyz, 29818, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_09 = ss, gateway-h-k-09.91tutu.xyz, 29809, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇭🇰 香港_10 = ss, gateway-h-k-10.91tutu.xyz, 29411, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
 
-🇯🇵 日本_01 = ss, gateway-j-p-01.91tutu.xyz, 39191, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_02 = ss, gateway-j-p-02.91tutu.xyz, 39192, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_03 = ss, gateway-j-p-03.91tutu.xyz, 39103, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_04 = ss, gateway-j-p-04.91tutu.xyz, 39104, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_05 = ss, gateway-j-p-05.91tutu.xyz, 39105, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_06 = ss, gateway-j-p-06.91tutu.xyz, 39106, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_07 = ss, gateway-j-p-07.91tutu.xyz, 39107, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_08 = ss, gateway-j-p-08.91tutu.xyz, 39418, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_09 = ss, gateway-j-p-09.91tutu.xyz, 39419, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-🇯🇵 日本_10 = ss, gateway-j-p-10.91tutu.xyz, 39420, encrypt-method=chacha20-ietf-poly1305, password=4e079290-392b-4e4b-bdc4-f0a1f56ae841
-土耳其1=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-nOZg4Jbm, udp-relay=false
-土耳其2=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-96L2x8iV, udp-relay=false
-土耳其3=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-Sah4GYvf, udp-relay=false
-土耳其4=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-rWqxI8DQ, udp-relay=false
-土耳其5=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-tr_session-6J1ouilC, udp-relay=false
-922土耳其1=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-L6pnDynlBv-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其2=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-1lN9KxOML4-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其3=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-eCLGMG3iLA-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其4=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-gArIbiaeMk-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其5=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-TR-sessid-28qoyeix6K-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚6=socks5, f8806a.gorelay.xyz,41349,poiu4717,9gHUDSv8OK_country-ng_session-lDBdoVIx, udp-relay=false
-尼日利亚7=socks5, f8806a.gorelay.xyz,41349,poiu4717,9gHUDSv8OK_country-ng_session-CIHgo4YQ, udp-relay=false
-尼日利亚8=socks5, f8806a.gorelay.xyz,41349,poiu4717,9gHUDSv8OK_country-ng_session-Ww6VmbQ4, udp-relay=false
-尼日利亚9=socks5, f8806a.gorelay.xyz,41349,poiu4717,9gHUDSv8OK_country-ng_session-w3YVhnoG, udp-relay=false
-尼日利亚10=socks5, f8806a.gorelay.xyz,41349,poiu4717,9gHUDSv8OK_country-ng_session-XT2wbqMh, udp-relay=false
-尼日利亚1=socks5, f8806a.gorelay.xyz,41349,47353961-zone-custom-region-NG-sessid-csLbFMj9Oy-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚2=socks5, f8806a.gorelay.xyz,41349,47353961-zone-custom-region-NG-sessid-fir0cLzsAu-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚3=socks5, f8806a.gorelay.xyz,41349,47353961-zone-custom-region-NG-sessid-HmKuDzOF3b-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚4=socks5, f8806a.gorelay.xyz,41349,47353961-zone-custom-region-NG-sessid-hx1nB6LzlK-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚5=socks5, f8806a.gorelay.xyz,41349,47353961-zone-custom-region-NG-sessid-GkgBbn0NPh-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日1=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日2=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日3=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日4=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日5=socks5, ss.jinhuiios.top,23179,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-土耳其6=socks5, 150.109.18.53,48814,customer-37d279548ab-country-TR-region-Adana-session-12253d02aa4f4a4-time-30,a654bf8f, udp-relay=false
-土耳其7=socks5, 150.109.18.53,48814,customer-37d279548ab-country-TR-region-Adana-session-937ef92660a84a9-time-30,a654bf8f, udp-relay=false
-土耳其8=socks5, 150.109.18.53,48814,customer-37d279548ab-country-TR-region-Adana-session-65baa768e19f4a0-time-30,a654bf8f, udp-relay=false
-土耳其9=socks5, 150.109.18.53,48814,customer-37d279548ab-country-TR-region-Adana-session-c3aac9e44dd9464-time-30,a654bf8f, udp-relay=false
-土耳其10=socks5, 150.109.18.53,48814,customer-37d279548ab-country-TR-region-Adana-session-c105a5a439a944b-time-30,a654bf8f, udp-relay=false
-哥伦比亚1=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
-哥伦比亚2=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-co_session-x0ZvcEXJ, udp-relay=false
-哥伦比亚3=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-co_session-veUo7ONB, udp-relay=false
-哥伦比亚4=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-co_session-grYUK23w, udp-relay=false
-哥伦比亚5=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-co_session-tCHilW5O, udp-relay=false
-埃及1=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-eg_session-E8O1mvTd, udp-relay=false
-埃及2=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-eg_session-64Gl3OZr, udp-relay=false
-埃及3=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-eg_session-d2pUHEb5, udp-relay=false
-埃及4=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-eg_session-ZcBneUfT, udp-relay=false
-埃及5=socks5, 150.109.18.53,25009,poiu4717,9gHUDSv8OK_country-eg_session-FEGyTDoC, udp-relay=false
-埃及6=socks5, 150.109.18.53,48814,customer-37d279548ab-country-EG-session-734248d5ac664a8-time-30,a654bf8f, udp-relay=false
-埃及7=socks5, 150.109.18.53,48814,customer-37d279548ab-country-EG-session-387fdf7ddc6a4db-time-30,a654bf8f, udp-relay=false
-埃及8=socks5, 150.109.18.53,48814,customer-37d279548ab-country-EG-session-51a19d1397d2469-time-30,a654bf8f, udp-relay=false
-埃及9=socks5, 150.109.18.53,48814,customer-37d279548ab-country-EG-session-2a0d65579a2346e-time-30,a654bf8f, udp-relay=false
-埃及10=socks5, 150.109.18.53,48814,customer-37d279548ab-country-EG-session-8ba8241da6f64ee-time-30,a654bf8f, udp-relay=false
-缅甸1=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-K9fASxDo, udp-relay=false
-缅甸2=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-jqFagbo1, udp-relay=false
-缅甸3=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-rZKBdyMS, udp-relay=false
-缅甸4=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-PtaAulvU, udp-relay=false
-缅甸5=socks5, ss.jinhuiios.top,12033,poiu4717,9gHUDSv8OK_country-mm_session-0wQMpPdz, udp-relay=false
+土耳其1=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-tr_session-nOZg4Jbm, udp-relay=false
+土耳其2=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-tr_session-96L2x8iV, udp-relay=false
+土耳其3=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-tr_session-Sah4GYvf, udp-relay=false
+土耳其4=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-tr_session-rWqxI8DQ, udp-relay=false
+土耳其5=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-tr_session-6J1ouilC, udp-relay=false
+922土耳其1=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-TR-sessid-L6pnDynlBv-sessTime-30,dJIA8BM3, udp-relay=false
+922土耳其2=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-TR-sessid-1lN9KxOML4-sessTime-30,dJIA8BM3, udp-relay=false
+922土耳其3=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-TR-sessid-eCLGMG3iLA-sessTime-30,dJIA8BM3, udp-relay=false
+922土耳其4=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-TR-sessid-gArIbiaeMk-sessTime-30,dJIA8BM3, udp-relay=false
+922土耳其5=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-TR-sessid-28qoyeix6K-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚6=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-ng_session-lDBdoVIx, udp-relay=false
+尼日利亚7=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-ng_session-CIHgo4YQ, udp-relay=false
+尼日利亚8=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-ng_session-Ww6VmbQ4, udp-relay=false
+尼日利亚9=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-ng_session-w3YVhnoG, udp-relay=false
+尼日利亚10=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-ng_session-XT2wbqMh, udp-relay=false
+尼日利亚1=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-sessid-csLbFMj9Oy-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚2=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-sessid-fir0cLzsAu-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚3=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-sessid-HmKuDzOF3b-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚4=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-sessid-hx1nB6LzlK-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚5=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-sessid-GkgBbn0NPh-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日1=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日2=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日3=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日4=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日5=socks5, d45cc7.gorelay.xyz,30561,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+土耳其6=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-TR-region-Adana-session-12253d02aa4f4a4-time-30,a654bf8f, udp-relay=false
+土耳其7=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-TR-region-Adana-session-937ef92660a84a9-time-30,a654bf8f, udp-relay=false
+土耳其8=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-TR-region-Adana-session-65baa768e19f4a0-time-30,a654bf8f, udp-relay=false
+土耳其9=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-TR-region-Adana-session-c3aac9e44dd9464-time-30,a654bf8f, udp-relay=false
+土耳其10=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-TR-region-Adana-session-c105a5a439a944b-time-30,a654bf8f, udp-relay=false
+哥伦比亚1=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
+哥伦比亚2=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-co_session-x0ZvcEXJ, udp-relay=false
+哥伦比亚3=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-co_session-veUo7ONB, udp-relay=false
+哥伦比亚4=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-co_session-grYUK23w, udp-relay=false
+哥伦比亚5=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-co_session-tCHilW5O, udp-relay=false
+埃及1=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-eg_session-E8O1mvTd, udp-relay=false
+埃及2=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-eg_session-64Gl3OZr, udp-relay=false
+埃及3=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-eg_session-d2pUHEb5, udp-relay=false
+埃及4=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-eg_session-ZcBneUfT, udp-relay=false
+埃及5=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-eg_session-FEGyTDoC, udp-relay=false
+埃及6=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-EG-session-734248d5ac664a8-time-30,a654bf8f, udp-relay=false
+埃及7=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-EG-session-387fdf7ddc6a4db-time-30,a654bf8f, udp-relay=false
+埃及8=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-EG-session-51a19d1397d2469-time-30,a654bf8f, udp-relay=false
+埃及9=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-EG-session-2a0d65579a2346e-time-30,a654bf8f, udp-relay=false
+埃及10=socks5, d45cc7.gorelay.xyz,30561,customer-37d279548ab-country-EG-session-8ba8241da6f64ee-time-30,a654bf8f, udp-relay=false
+缅甸1=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-mm_session-K9fASxDo, udp-relay=false
+缅甸2=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-mm_session-jqFagbo1, udp-relay=false
+缅甸3=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-mm_session-rZKBdyMS, udp-relay=false
+缅甸4=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-mm_session-PtaAulvU, udp-relay=false
+缅甸5=socks5, d45cc7.gorelay.xyz,30561,poiu4717,9gHUDSv8OK_country-mm_session-0wQMpPdz, udp-relay=false
 [Proxy Group]
-Proxies= select, 🇭🇰 香港_01,🇭🇰 香港_02,🇭🇰 香港_03,🇭🇰 香港_04,🇭🇰 香港_05,🇭🇰 香港_06,🇭🇰 香港_07,🇭🇰 香港_08,🇭🇰 香港_09,🇭🇰 香港_10, Hong Kong 01, Hong Kong 02 , 🇯🇵 日本_01, 🇯🇵 日本_02, 🇯🇵 日本_03,🇯🇵 日本_04,🇯🇵 日本_05,🇯🇵 日本_06,🇯🇵 日本_07,🇯🇵 日本_08 ,🇯🇵 日本_09,🇯🇵 日本_10
+Proxies= select, policy-path=https://fly0001.buzz/gateway/feitu?token=b6ad60273e669b9e6cb369cab42ad37b, update-interval=86400, Hong Kong 01, Hong Kong 02 
 Googleplay= select, 土耳其1,土耳其2, 土耳其3, 土耳其4,土耳其5,土耳其6,土耳其7,土耳其8,土耳其9,土耳其10,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5,尼日利亚6, 尼日利亚7,尼日利亚8,尼日利亚9,尼日利亚10,哥伦比亚1,哥伦比亚2,哥伦比亚3, 哥伦比亚4,哥伦比亚5,埃及1,埃及2,埃及3,埃及4,埃及5,埃及6,埃及7,埃及8,埃及9,埃及10,922尼日1,922尼日2,922尼日3,922尼日4,922尼日5,922土耳其1,922土耳其2,922土耳其3,922土耳其4,922土耳其5,缅甸1,缅甸2,缅甸3,缅甸4,缅甸5
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
