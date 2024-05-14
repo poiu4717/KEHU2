@@ -11,22 +11,22 @@ Hong Kong 02 = vmess, 47.76.143.179, 21862, username=ea51ab9b-5206-4e82-a228-7b8
 Hong Kong 01 = vmess, 47.76.162.143, 51371, username=e9e922a8-c5fc-4db4-ef69-b739ae8f084b, udp-relay=false
 
 
-尼日利亚1=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
-尼日利亚2=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
-尼日利亚3=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
-尼日利亚4=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
-尼日利亚5=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+尼日利亚1=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
+尼日利亚2=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-Yv2EpBOg, udp-relay=false
+尼日利亚3=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-2PrUiQT8, udp-relay=false
+尼日利亚4=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
+尼日利亚5=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
 
-922尼日1=socks5, d45cc7.gorelay.xyz,39070,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日2=socks5, d45cc7.gorelay.xyz,39070,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日3=socks5, d45cc7.gorelay.xyz,39070,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日4=socks5, d45cc7.gorelay.xyz,39070,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日5=socks5, d45cc7.gorelay.xyz,39070,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-缅甸1=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-mm_session-K9fASxDo, udp-relay=false
-缅甸2=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-mm_session-jqFagbo1, udp-relay=false
-缅甸3=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-mm_session-rZKBdyMS, udp-relay=false
-缅甸4=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-mm_session-PtaAulvU, udp-relay=false
-缅甸5=socks5, d45cc7.gorelay.xyz,39070,poiu4717,9gHUDSv8OK_country-mm_session-0wQMpPdz, udp-relay=false
+922尼日1=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日2=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日3=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日4=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日5=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+缅甸1=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-K9fASxDo, udp-relay=false
+缅甸2=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-jqFagbo1, udp-relay=false
+缅甸3=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-rZKBdyMS, udp-relay=false
+缅甸4=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-PtaAulvU, udp-relay=false
+缅甸5=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-0wQMpPdz, udp-relay=false
 
 [Proxy Group]
 Proxies= select, policy-path=https://fly0001.buzz/gateway/feitu?token=b6ad60273e669b9e6cb369cab42ad37b, update-interval=86400, Hong Kong 01, Hong Kong 02 
