@@ -17,11 +17,11 @@ Hong Kong 01 = vmess, 47.76.162.143, 51371, username=e9e922a8-c5fc-4db4-ef69-b73
 尼日利亚4=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-Sv39pZqc, udp-relay=false
 尼日利亚5=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-ng_session-0FNntGqj, udp-relay=false
 
-922尼日1=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日2=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日3=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日4=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日5=socks5, 43.249.172.6,7006,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+922尼日1=socks5, 43.249.172.6,7006,poiu4717-zone-resi-region-ng-session-945a2a708cd9-sessTime-30,AA112211, udp-relay=false
+922尼日2=socks5, 43.249.172.6,7006,poiu4717-zone-resi-region-ng-session-e3f557a127a8-sessTime-30,AA112211, udp-relay=false
+922尼日3=socks5, 43.249.172.6,7006,poiu4717-zone-resi-region-ng-session-c00c33f71b3e-sessTime-30,AA112211, udp-relay=false
+922尼日4=socks5, 43.249.172.6,7006,poiu4717-zone-resi-region-ng-session-e8b720943ee7-sessTime-30,AA112211, udp-relay=false
+922尼日5=socks5, 43.249.172.6,7006,poiu4717-zone-resi-region-ng-session-47bc3fcfe237-sessTime-30,AA112211, udp-relay=false
 缅甸1=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-K9fASxDo, udp-relay=false
 缅甸2=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-jqFagbo1, udp-relay=false
 缅甸3=socks5, 43.249.172.6,7005,poiu4717,9gHUDSv8OK_country-mm_session-rZKBdyMS, udp-relay=false
