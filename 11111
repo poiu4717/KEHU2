@@ -14,26 +14,26 @@ Hong Kong 01 = vmess, 47.76.162.143, 51371, username=e9e922a8-c5fc-4db4-ef69-b73
 土耳其3=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-tr_session-Sah4GYvf, udp-relay=false
 土耳其4=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-tr_session-rWqxI8DQ, udp-relay=false
 土耳其5=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-tr_session-6J1ouilC, udp-relay=false
-922土耳其1=socks5, 43.249.172.6,7002,47353961-zone-custom-region-TR-sessid-L6pnDynlBv-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其2=socks5, 43.249.172.6,7002,47353961-zone-custom-region-TR-sessid-1lN9KxOML4-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其3=socks5, 43.249.172.6,7002,47353961-zone-custom-region-TR-sessid-eCLGMG3iLA-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其4=socks5, 43.249.172.6,7002,47353961-zone-custom-region-TR-sessid-gArIbiaeMk-sessTime-30,dJIA8BM3, udp-relay=false
-922土耳其5=socks5, 43.249.172.6,7002,47353961-zone-custom-region-TR-sessid-28qoyeix6K-sessTime-30,dJIA8BM3, udp-relay=false
+922土耳其1=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-tr-session-605527d010e9-sessTime-30,AA112211, udp-relay=false
+922土耳其2=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-tr-session-b6189cf23cce-sessTime-30,AA112211, udp-relay=false
+922土耳其3=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-tr-session-c1291eeb1921-sessTime-30,AA112211, udp-relay=false
+922土耳其4=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-tr-session-6b2e979a7e12-sessTime-30,AA112211, udp-relay=false
+922土耳其5=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-tr-session-35b11a47cb38-sessTime-30,AA112211, udp-relay=false
 尼日利亚6=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-ng_session-lDBdoVIx, udp-relay=false
 尼日利亚7=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-ng_session-CIHgo4YQ, udp-relay=false
 尼日利亚8=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-ng_session-Ww6VmbQ4, udp-relay=false
 尼日利亚9=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-ng_session-w3YVhnoG, udp-relay=false
 尼日利亚10=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-ng_session-XT2wbqMh, udp-relay=false
-尼日利亚1=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-sessid-csLbFMj9Oy-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚2=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-sessid-fir0cLzsAu-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚3=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-sessid-HmKuDzOF3b-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚4=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-sessid-hx1nB6LzlK-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚5=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-sessid-GkgBbn0NPh-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日1=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-city-lagos-sessid-pNpmg9wyI1-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日2=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-city-lagos-sessid-boCKHAdiKE-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日3=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-city-lagos-sessid-jrqDKrDzql-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日4=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
-922尼日5=socks5, 43.249.172.6,7002,47353961-zone-custom-region-NG-city-lagos-sessid-eH05egjO9q-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚1=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-71007843b65e-sessTime-30,AA112211, udp-relay=false
+尼日利亚2=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-1f0d622f53c8-sessTime-30,AA112211, udp-relay=false
+尼日利亚3=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-59c434459548-sessTime-30,AA112211, udp-relay=false
+尼日利亚4=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-fc04c4cb0eb5-sessTime-30,AA112211, udp-relay=false
+尼日利亚5=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-f81f606fce5b-sessTime-30,AA112211, udp-relay=false
+922尼日1=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-e68bab357104-sessTime-30,AA112211, udp-relay=false
+922尼日2=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-199991564c69-sessTime-30,AA112211, udp-relay=false
+922尼日3=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-b58b799b1cfa-sessTime-30,AA112211, udp-relay=false
+922尼日4=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-f53b67db1461-sessTime-30,AA112211, udp-relay=false
+922尼日5=socks5, 43.249.172.6,7002,poiu4717-zone-resi-region-ng-session-29f58e7ec33b-sessTime-30,AA112211, udp-relay=false
 
 哥伦比亚1=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-co_session-sXxen8bz, udp-relay=false
 哥伦比亚2=socks5, 43.249.172.6,7001,poiu4717,9gHUDSv8OK_country-co_session-x0ZvcEXJ, udp-relay=false
@@ -113,3 +113,4 @@ DOMAIN-SUFFIX,ytoo.co.uk,Proxies
 GEOIP,CN,DIRECT
 FINAL,Proxies
 FINAL,Proxies
+
