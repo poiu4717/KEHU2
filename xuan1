@@ -19,21 +19,21 @@ proxies:
   - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
 
-  - {name: 缅甸1, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
-  - {name: 缅甸2, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
-  - {name: 缅甸3, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
-  - {name: 缅甸4, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
-  - {name: 缅甸5, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
+  - {name: 缅甸1, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-Y2EZLIcD}
+  - {name: 缅甸2, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-SQ8uK1Y3}
+  - {name: 缅甸3, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-7UYIGAlm}
+  - {name: 缅甸4, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-aIjg3QB2}
+  - {name: 缅甸5, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-LwhgTeqz}
   - {name: 缅甸6, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-mm-session-ff0c5b1e9db7-sessTime-30, password: AA112211}
   - {name: 缅甸7, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-mm-session-f9816d9ba5bb-sessTime-30, password: AA112211}
   - {name: 缅甸8, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-mm-session-2c5f376a42ef-sessTime-30, password: AA112211}
   - {name: 缅甸9, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-mm-session-d7251e5f3ea1-sessTime-30, password: AA112211}
   - {name: 缅甸10, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-mm-session-0aed0adc53a9-sessTime-30, password: AA112211}
-  - {name: 巴西1, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-MX54vZJV}
-  - {name: 巴西2, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-qRz4P29x}
-  - {name: 巴西3, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-KIW6zQwP}
-  - {name: 巴西4, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-xz8smkCg}
-  - {name: 巴西5, server: 43.249.172.6, port: 7007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-SHj3Eqck}
+  - {name: 巴西1, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-42qa53R8}
+  - {name: 巴西2, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-vwYfJFRC}
+  - {name: 巴西3, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-wehydaf9}
+  - {name: 巴西4, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-mvDQKWuP}
+  - {name: 巴西5, server: 43.249.172.6, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-br_session-hnFKJWPL}
   - {name: 巴西6, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-br-session-35db599236f5-sessTime-30, password: AA112211}
   - {name: 巴西7, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-br-session-407f7d4051b0-sessTime-30, password: AA112211}
   - {name: 巴西8, server: 43.249.172.6, port: 7008, type: socks5, username: poiu4717-zone-resi-region-br-session-5dacbee5535d-sessTime-30, password: AA112211}
