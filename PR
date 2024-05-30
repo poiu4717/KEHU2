@@ -18,11 +18,11 @@ proxies:
   - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
 
-  - {name: 土耳其1, server: 43.249.172.6, port: 7013, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-qc1HF3Gs}
-  - {name: 土耳其2, server: 43.249.172.6, port: 7013, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-eHlXCkjZ}
-  - {name: 土耳其3, server: 43.249.172.6, port: 7013, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-YGbIP18q}
-  - {name: 土耳其4, server: 43.249.172.6, port: 7013, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0XfSIoL6}
-  - {name: 土耳其5, server: 43.249.172.6, port: 7013, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-UMJ5j3mb}
+  - {name: 土耳其1, server: 43.249.172.6, port: 8007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-qc1HF3Gs}
+  - {name: 土耳其2, server: 43.249.172.6, port: 8007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-eHlXCkjZ}
+  - {name: 土耳其3, server: 43.249.172.6, port: 8007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-YGbIP18q}
+  - {name: 土耳其4, server: 43.249.172.6, port: 8007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0XfSIoL6}
+  - {name: 土耳其5, server: 43.249.172.6, port: 8007, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-UMJ5j3mb}
   - {name: 土耳其6, server: 43.249.172.6, port: 7014, type: socks5, username: poiu4717-zone-resi-region-tr-session-83ee29e01cda-sessTime-30, password: AA112211}
   - {name: 土耳其7, server: 43.249.172.6, port: 7014, type: socks5, username: poiu4717-zone-resi-region-tr-session-d9424134810e-sessTime-30, password: AA112211}
   - {name: 土耳其8, server: 43.249.172.6, port: 7014, type: socks5, username: poiu4717-zone-resi-region-tr-session-b882f42ab469-sessTime-30, password: AA112211}
